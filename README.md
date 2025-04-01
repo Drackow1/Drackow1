@@ -24,7 +24,7 @@
  
 <br>
  
-<div align="center" > <h2><strong>Pra me seguir nas redes abaixo!</strong></h2> </div>
+<h2 align="center"><strong>Pra me seguir nas redes abaixo!</strong></h2>
  
 <div align="center"> 
   <a href="https://www.youtube.com/@DrakoFlest" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
