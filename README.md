@@ -20,6 +20,8 @@
   <img align="center" alt="Js" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img aling="center" alt="GIT" height="30" width="80"
+    src="https://banner2.cleanpng.com/20180825/pb/kisspng-github-version-control-repository-commit-tocode-pull-request-5b818cb3085999.8721410315352168190342.jpg">
 </div>
  
 <br>
