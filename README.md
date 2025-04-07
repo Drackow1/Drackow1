@@ -22,6 +22,8 @@
   <img alt="CSS" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img  alt="GIT" height="30" width="80" top: 10px;
 src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg">
+  <img alt="PYTHON" height="30" width="80"
+src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-plain.svg">
 </div>
  
 <br>
