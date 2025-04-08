@@ -12,9 +12,8 @@
 
  <div align="center">
    <a href="https://github.com/Drackow1">
-   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Drackow1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-   <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=Drackow1&theme=tokyonight&hide_border=true" />
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drackow1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drackow1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drackow1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
     
 <div align="center"><br>
