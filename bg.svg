@@ -2,15 +2,6 @@
      width="1200"
      height="500"
      viewBox="0 0 1200 500">
-
-  <!-- imagem de fundo DO REPO -->
-  <image
-    href="https://raw.githubusercontent.com/drackow1/drackow1/main/images.jpg"
-    width="1200"
-    height="500"
-    preserveAspectRatio="xMidYMid slice"
-  />
-
   <!-- overlay escuro -->
   <rect width="1200" height="500" fill="black" opacity="1"/>
 
