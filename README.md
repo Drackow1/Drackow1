@@ -1,4 +1,6 @@
-<div "theme=tokyonight">
+<div >
+<img src="https://raw.githubusercontent.com/SEUUSER/SEUREPO/main/banner.svg" width="100%">
+
   <h3 align="center">Opa aqui é o DK disposto a quebrar qualquer codigo nem que seja no braço 🦾</h3>
   
   <div align="center">
