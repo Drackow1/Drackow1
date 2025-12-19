@@ -1,5 +1,4 @@
 <div >
-<img src="https://raw.githubusercontent.com/drackow1/drackow1/main/bg.svg">
   <h3 align="center">Opa aqui é o DK disposto a quebrar qualquer codigo nem que seja no braço 🦾</h3>
   
   <div align="center">
