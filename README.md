@@ -1,3 +1,6 @@
+<div>
+<img src="https://raw.githubusercontent.com/drackow1/drackow1/main/bg.svg" width="100%">
+<div>
 <h3 align="center">Opa aqui é o DK disposto a quebrar qualquer codigo nem que seja no braço 🦾</h3>
     
 <div align="center">
@@ -35,4 +38,6 @@
       <a href="https://instagram.com/victorluizx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href = "mailto:avictor0.2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/victorluizx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+</div>
 </div>
