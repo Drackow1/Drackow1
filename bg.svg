@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="500"
+     viewBox="0 0 1200 500">
+
+  <!-- imagem de fundo DO REPO -->
+  <image
+    href="https://raw.githubusercontent.com/drackow1/drackow1/main/images.jpg"
+    width="1200"
+    height="500"
+    preserveAspectRatio="xMidYMid slice"
+  />
+
+  <!-- overlay escuro -->
+  <rect width="1200" height="500" fill="black" opacity="0.6"/>
+
+  <!-- texto -->
+  <text x="600" y="200"
+        text-anchor="middle"
+        font-size="40"
+        fill="white"
+        font-family="Arial, Helvetica, sans-serif"
+        font-weight="bold">
+    DK no controle
+  </text>
+
+  <text x="600" y="250"
+        text-anchor="middle"
+        font-size="22"
+        fill="#ddd"
+        font-family="Arial, Helvetica, sans-serif">
+    README com fundo funcionando de verdade 🦾
+  </text>
+
+</svg>
