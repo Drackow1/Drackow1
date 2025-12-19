@@ -1,3 +1,4 @@
+<h5 aling="center">Recomendo Visualizar o Perfil utilizando o tema dark do github</h5>
 <h3 align="center">Opa aqui é o DK disposto a quebrar qualquer codigo nem que seja no braço 🦾</h3>
     
 <div align="center">
