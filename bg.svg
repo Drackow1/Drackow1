@@ -8,5 +8,5 @@
       <img alt="github-snake" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-plain.svg" />
  </picture>
   <!-- overlay escuro -->
-  <rect width="1200" height="500" fill="black" opacity="1"/>
+  <rect width="1200" height="500" fill="black" opacity="0"/>
 </svg>
