@@ -1,4 +1,4 @@
-<div style="background-color: black;">
+<div "theme=tokyonight">
   <h3 align="center">Opa aqui é o DK disposto a quebrar qualquer codigo nem que seja no braço 🦾</h3>
   
   <div align="center">
