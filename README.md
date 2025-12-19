@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/SEUUSER/SEUREPO/main/bg.svg" width="100%">
-</p>
+</div>
 <h3 align="center">Opa aqui é o DK disposto a quebrar qualquer codigo nem que seja no braço 🦾</h3>
     
 <div align="center">
