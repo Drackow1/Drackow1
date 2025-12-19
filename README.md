@@ -1,5 +1,5 @@
 <div >
-<img src="https://raw.githubusercontent.com/SEUUSER/SEUREPO/main/banner.svg" width="100%">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2CzjxNsIJnUKmogfFOdeRcrNwavwd-l8QTg&s" width="100%">
 
   <h3 align="center">Opa aqui é o DK disposto a quebrar qualquer codigo nem que seja no braço 🦾</h3>
   
